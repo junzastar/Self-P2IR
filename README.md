@@ -19,6 +19,8 @@ We tested the code on python 3.8 and pytorch '1.10.1+cu111'.
 conda env create -f environment.yml
 conda activate Self-P2IR
 cd cpp_wrappers; sh compile_wrappers.sh; cd ..
+cd extensions/chamfer_distance; python setup.py install; cd ../..
+cd extensions/earth_movers_distance; python setup.py install; cd ../..
 ```
 
 ## Prepare 
