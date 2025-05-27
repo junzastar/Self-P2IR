@@ -423,7 +423,7 @@ if __name__ == '__main__':
     from configs.models import architectures
     import open3d as o3d
     import numpy as np
-    config_pth = '/home/jiking/users/jun/SelfTraining/configs/train/main_config.yaml'
+    config_pth = '/configs/train/main_config.yaml'
     with open(config_pth,'r') as f:
         config = yaml.safe_load(f)
     config = edict(config)
