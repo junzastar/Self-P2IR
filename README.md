@@ -1,7 +1,7 @@
 # [TMI'24] Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection
 
 <p align="center">
-<img src="figures/pipeline.png" alt="intro" width="100%"/>
+<img src="figs/pipeline.png" alt="intro" width="100%"/>
 </p>
 
 Official Implementation of "[Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection](https://arxiv.org/abs/2504.15152)"
