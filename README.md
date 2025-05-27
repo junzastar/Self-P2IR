@@ -13,21 +13,23 @@ Official Implementation of "[Landmark-Free Preoperative-to-Intraoperative Regist
 
 We recommend using conda to setup the environment.
 
-If you have already installed conda, please use the following commands.
+We tested the code on python 3.8 and pytorch '1.10.1+cu111'.
 
 ```bash
-conda create -n SelfTraining python=3.8
-conda activate SelfTraining
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate Self-P2IR
+cd cpp_wrappers; sh compile_wrappers.sh; cd ..
 ```
 
 ## Prepare 
 Download the processed P2I-LReg dataset, you can download it [here](https://github.com/junzastar/Self-P2IR/edit/main/README.md). Our Pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1tjkddrjTgmF3qp_BsPLWt9bIhhy5_P6L?usp=sharing).
 
 
-## Train
+## Train & Inference
 ```bash
 sh train.sh
+or
+sh test.sh
 ```
 
 ## Citation
