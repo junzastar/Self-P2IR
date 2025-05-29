@@ -29,20 +29,22 @@ Download the processed P2I-LReg dataset, you can download it [here](https://pan.
 ### P2I-LReg structure
 ```
 ├── P2I-LReg Dataset
-	├── 01
-		├── model
-    ├── real
-      ├── labels
-      ├── liverPcds
-      ├── scale
-      ├── CAM_K.yml 
-		├── syn
-      ├── labels
-      ├── liverPcds
-      ├── CAM_K.yml
-      ├── camPose.yml 
-		├── train/test.txt
-	├── 02
+    ├── 01
+    │   ├── model/
+    │   ├── real/
+    │   │   ├── labels/
+    │   │   ├── liverPcds/
+    │   │   ├── scale/
+    │   │   └── CAM_K.yml
+    │   ├── syn/
+    │   │   ├── labels/
+    │   │   ├── liverPcds/
+    │   │   ├── CAM_K.yml
+    │   │   └── camPose.yml
+    │   ├── train/test.txt
+    ├── 02
+    │   └── ...
+    ├── ...
 ```
 
 ## Train & Inference
