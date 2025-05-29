@@ -24,8 +24,26 @@ cd extensions/earth_movers_distance; python setup.py install; cd ../..
 ```
 
 ## Prepare 
-Download the processed P2I-LReg dataset, you can download it [here](https://github.com/junzastar/Self-P2IR). Our Pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1tjkddrjTgmF3qp_BsPLWt9bIhhy5_P6L?usp=sharing).
+Download the processed P2I-LReg dataset, you can download it [here](https://pan.baidu.com/share/init?surl=BQYoYFro32NnpfWu5Whs0A&pwd=96j7). Our Pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1tjkddrjTgmF3qp_BsPLWt9bIhhy5_P6L?usp=sharing).
 
+### P2I-LReg structure
+```
+├── P2I-LReg Dataset
+	├── 01
+		├── model
+    ├── real
+      ├── labels
+      ├── liverPcds
+      ├── scale
+      ├── CAM_K.yml 
+		├── syn
+      ├── labels
+      ├── liverPcds
+      ├── CAM_K.yml
+      ├── camPose.yml 
+		├── train/test.txt
+	├── 02
+```
 
 ## Train & Inference
 ```bash
