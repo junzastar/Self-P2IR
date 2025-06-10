@@ -60,8 +60,9 @@ If you find the code useful, please cite our paper.
 @article{zhou2025landmark,
   title={Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection},
   author={Zhou, Jun and Gao, Bingchen and Wang, Kai and Pei, Jialun and Heng, Pheng-Ann and Qin, Jing},
-  journal={arXiv preprint arXiv:2504.15152},
-  year={2025}
+  journal={IEEE Transactions on Medical Imaging},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
