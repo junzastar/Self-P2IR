@@ -4,9 +4,11 @@
 <img src="figs/pipeline.png" alt="intro" width="100%"/>
 </p>
 
-Official Implementation of "[Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection](https://arxiv.org/abs/2504.15152)"
+Official Implementation of "[Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11016089)" 
 
 [Jun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=pEgMa-UAAAAJ), [Bingchen Gao](https://scholar.google.com/citations?hl=en&user=mLD6ce4AAAAJ&view_op=list_works&sortby=pubdate), [Kai Wang](https://www.researchgate.net/scientific-contributions/Kai-Wang-2079876800), [Jialun Pei*](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN) and [Jing Qin](https://harry-qinjing.github.io/)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2504.15152-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2504.15152)
 
 ## Qualitative results
 
