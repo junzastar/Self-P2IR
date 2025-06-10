@@ -8,7 +8,7 @@ Official Implementation of "[Landmark-Free Preoperative-to-Intraoperative Regist
 
 [Jun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=pEgMa-UAAAAJ), [Bingchen Gao](https://scholar.google.com/citations?hl=en&user=mLD6ce4AAAAJ&view_op=list_works&sortby=pubdate), [Kai Wang](https://www.researchgate.net/scientific-contributions/Kai-Wang-2079876800), [Jialun Pei*](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN) and [Jing Qin](https://harry-qinjing.github.io/)
 
-[![arXiv](https://img.shields.io/badge/arxiv-2504.15152-red)](https://arxiv.org/abs/2504.15152)
+[![IEEE TMI](https://img.shields.io/badge/IEEE%20TMI-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11016089) [![arXiv](https://img.shields.io/badge/arxiv-2504.15152-red)](https://arxiv.org/abs/2504.15152)
 
 ## Qualitative results
 
