@@ -32,7 +32,7 @@ cd extensions/earth_movers_distance; python setup.py install; cd ../..
 ```
 
 ## Prepare 
-Download the processed P2I-LReg dataset, you can download it [here](https://pan.baidu.com/share/init?surl=BQYoYFro32NnpfWu5Whs0A&pwd=96j7). Our Pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1tjkddrjTgmF3qp_BsPLWt9bIhhy5_P6L?usp=sharing).
+Download the processed P2I-LReg dataset, you can download it here [BAIDU DISK](https://pan.baidu.com/share/init?surl=BQYoYFro32NnpfWu5Whs0A&pwd=96j7) or [OneDrive](https://gocuhk-my.sharepoint.com/:f:/r/personal/jialunpei_cuhk_edu_hk/Documents/TMI2025-Liver%20Registration_Self-P2IR%20Dataset?csf=1&web=1&e=B7hm0o). Our Pretrained model can be downloaded [here](https://drive.google.com/drive/folders/1tjkddrjTgmF3qp_BsPLWt9bIhhy5_P6L?usp=sharing).
 
 ### P2I-LReg structure
 ```
